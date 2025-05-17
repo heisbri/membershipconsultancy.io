@@ -1,7 +1,7 @@
 <?php
    
    define("HOST", "localhost");
-   define("DBNAME", "mconsultancy");
+   define("DBNAME", "membershipconsultancy.io");
    define("USER", "root");
    define("PASS", "");
    
